@@ -115,7 +115,7 @@ plt.plot(range(1, len(classifier.misclassified_samples) + 1),classifier.misclass
 plt.xlabel('Epoch')
 plt.ylabel('Errors')
 plt.show()
-```py
+```
 # OUTPUT:
 ![Screenshot 2024-09-12 151215](https://github.com/user-attachments/assets/2d3196b0-9c7b-4706-9085-0e816adbe892)
 ![Screenshot 2024-09-12 151240](https://github.com/user-attachments/assets/98fa1ce5-81c9-44e5-9e99-fcfdc01ac726)
